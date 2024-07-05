@@ -1,0 +1,67 @@
+.box1 {
+    width: 378px ;
+    height: 489px ;
+    background-color: #F5F5F5 ;
+    border: 1px solid #F4B4B47A;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 131px;
+}
+.img {
+    padding-top: 13px;
+    padding-left: 10px;
+}
+.box2 {
+    margin-left: 31px;
+    margin-top: 19px;
+}
+.b1 {
+    width: 300px;
+    height: 45px;
+    margin-top: 6px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    padding-left: 10px;
+    background: url(ico/person-bounding-box\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #9E9E9E;
+}
+.box3 {
+    margin-left: 31px;
+    margin-top: 19px;
+}
+.b2 {
+    width: 300px;
+    height: 45px;
+    margin-top: 6px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    padding-left: 10px;
+    background: url(ico/eye-slash\ 1\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    color: #9E9E9E;
+}
+.box4 {
+    margin-left: 31px;
+    margin-top: 19px;
+}
+.b3 {
+    width: 315px;
+    height: 45px;
+    margin-top: 6px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+    background-color: #6756CB;
+    color: #FFFFFF;
+}
+@font-face {
+    font-family: "inter" ;
+    src: url(font/Inter-VariableFont_slnt\,wght.ttf);
+}
+body {
+    font-family: "inter" ;
+}
+    
